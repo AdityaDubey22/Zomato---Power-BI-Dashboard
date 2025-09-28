@@ -32,3 +32,6 @@ This project delivers a business intelligence dashboard that analyzes the compet
 - Power Query for data cleaning & transformation
 - DAX (Data Analysis Expressions) for KPI calculations
 - Zomato Dataset (sourced from Kaggle)
+
+## 📸 Dashboard Preview
+![](Zomato.jpg)
