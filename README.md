@@ -35,3 +35,5 @@ This project delivers a business intelligence dashboard that analyzes the compet
 
 ## 📸 Dashboard Preview
 ![](Zomato.jpg)
+
+📂 [Download Full Folder](https://drive.google.com/file/d/1iiAchDCF6_EPOX9-XmjMeyppr8stuOEA/view?usp=drive_link) 
